@@ -23,7 +23,8 @@ public partial class MainPage : ContentPage
         }
         catch (Exception ex)
         {
-            // An unexpected error occurred. No browser may be installed on the device.
+            // An unexpected error occurred.
+            // No browser may be installed on the device.
         }
     }
 }
